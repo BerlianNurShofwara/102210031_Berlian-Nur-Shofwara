@@ -1,0 +1,48 @@
+
+.countainer { 
+    width: 980px;
+    margin: auto;
+    background-color: white;
+}
+
+.kiri {
+    float: left;
+    width: 900px;
+    background-color: peachpuff;
+    padding: 20px;
+    text-align: justify;
+}
+
+.kiri p {
+    color: black;
+}
+
+.kiri  {
+    padding-bottom: 20px;
+}
+
+.h1 {
+    color: navy;
+}
+
+.kanan {
+    width: 500px;
+    background-color: magenta;
+    display: inline-table;
+    padding: 20px;
+    padding-top: 50px;
+}
+
+.kanan {
+    color: black;
+    text-align: center;
+}
+
+.h3 {
+    color: white;
+    text-align: center;
+}
+
+.h2 {
+    color: navy;
+}
